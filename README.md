@@ -1,0 +1,1 @@
+This Python program reads literacy rate data from a CSV file, processes it, calculates statistical measures (mean, max, min), and visualizes the data using Matplotlib. The literacy rates are extracted from the CSV file and plotted as a line graph with data points.
